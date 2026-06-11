@@ -14,4 +14,4 @@ An automated workflow that catches post-call webhooks from Retell AI, validates 
 4. Authenticate your own **Google Sheets Account** and select your spreadsheet.
 
 ## 📊 Workflow Architecture
-![n8n Workflow Canvas](./Screenshot from 2026-06-11 18-00-44.png)
+![n8n Workflow Canvas](Screenshot from 2026-06-11 18-00-44.png)
